@@ -1,1 +1,1 @@
-click here :- https://avinash-cs.github.io/todojs/home
+click here :- https://avinash-cs.github.io/todojs/
